@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevDeb91
 - 👀 I’m interested in React, Vue, UX
 - 🎨 Colors addicted
-- 🌱 I’m currently learning UX and Vue
+- 🌱 I’m currently learning UX
 - 📫 How to reach me: deborahsantuccidev91@gmail.com
 - 👩‍💻 Sometimes I code on CodeSandbox. [Here](https://codesandbox.io/dashboard/all/?workspace=6ce31683-f2e6-4416-9466-9d6da21fc340) is my profile
 
