@@ -1,6 +1,6 @@
 👋 Hi, I’m @DevDeb91
 
-- 👩‍💻 Sometimes I code on CodeSandbox. [Here](https://codesandbox.io/dashboard/all/?workspace=6ce31683-f2e6-4416-9466-9d6da21fc340) is my profile.
+- 👩‍💻 Sometimes I code on [CodeSandbox](https://codesandbox.io/dashboard/all/?workspace=6ce31683-f2e6-4416-9466-9d6da21fc340).
 - 👩‍🏫 I am a mentor on [ADPList](https://adplist.org/mentors/deborah-santucci).
 
 ✨ Keen learner, always curious, let's start a project together! ✨
