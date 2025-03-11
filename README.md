@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DevDeb91
-- 👀 I’m interested in React, Vue, UX
-- 🎨 Colors addicted
-- 🌱 I’m currently learning UX
-- 👩‍💻 Sometimes I code on CodeSandbox. [Here](https://codesandbox.io/dashboard/all/?workspace=6ce31683-f2e6-4416-9466-9d6da21fc340) is my profile
+👋 Hi, I’m @DevDeb91
+
+- 👩‍💻 Sometimes I code on CodeSandbox. [Here](https://codesandbox.io/dashboard/all/?workspace=6ce31683-f2e6-4416-9466-9d6da21fc340) is my profile.
+- 👩‍🏫 I am a mentor on [ADPList](https://adplist.org/mentors/deborah-santucci).
 
 ✨ Keen learner, always curious, let's start a project together! ✨
 
